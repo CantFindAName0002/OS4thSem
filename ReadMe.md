@@ -1,4 +1,4 @@
-Group 1:
+Group i)
 
 1) WAP to implement Priority Queue scheduling Algorithm.[done]
 2) WAP to implement SJF non-preemptive Algorithm.[done]
@@ -17,7 +17,7 @@ NOTE: Print Completion Time, Turn Around Time, Wait Time and Response Time for E
 9) WAP to implement Optimal Page Replacement Algorithm.<br>
 10) WAP to implement SCAN Elevator Algorithm & CSCAN Algorithm.
 
-Group 2:
+Group ii)
 
 1) WAP to implement Priority Queue scheduling Algorithm.[done]
 2) WAP to implement SJF non-preemptive Algorithm.[done]
